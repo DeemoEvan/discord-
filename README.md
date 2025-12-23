@@ -3,7 +3,7 @@
 1.首先去安裝firefox瀏覽器
 
 2.接著將整個zip下載下來
-<img width="1171" height="788" alt="image" src="https://github.com/user-attachments/assets/3a8ba598-605d-4859-8128-34bbc5c55e28" />
+![8f5da834-a03b-4be1-8bb2-a6db504c62f4](https://github.com/user-attachments/assets/cde9a18d-c6af-443f-86c9-41b896ec5e01)
 
 3.接壓縮後有一個login.txt，將dc帳號打在第一行，密碼打在第二行
 
