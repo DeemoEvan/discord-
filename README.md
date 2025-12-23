@@ -7,9 +7,6 @@
 
 3.接壓縮後有一個login.txt，將dc帳號打在第一行，密碼打在第二行
 
-4.進到test.py，根據檔案位置，將driver、firefox_profile、login.txt路徑改成正確的。
-注意，三個必須在同一個資料夾目錄下(不能是子資料夾)!
+4.確認是否有下載python編譯環境以及selenium、tqdm函式庫
 
-5.確認是否有下載python編譯環境以及selenium、tqdm函式庫
-
-6.執行test.py即可
+5.執行test.py即可
