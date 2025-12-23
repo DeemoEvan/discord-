@@ -19,15 +19,13 @@ if sys.stdout.encoding != 'utf-8':
     sys.stdout.reconfigure(encoding='utf-8')
 
 # --- 設定區 ---
-PROFILE_PATH = r"D:\discordcheckin\firefox_profile"
-DRIVER_PATH = r"D:\discordcheckin\geckodriver.exe"
-LOGIN_INFO_PATH = r"D:\discordcheckin\login.txt"
+PROFILE_PATH = r".\firefox_profile"
+DRIVER_PATH = r".\geckodriver.exe"
+LOGIN_INFO_PATH = r".\login.txt"
 # 目標頻道網址
 TARGET_URL = "https://discord.com/channels/1446838276249096228/1447604334845235261"
 # 每日簽到時間記錄
 DAILY_CHECKIN_TIME = datetime.now()
-# Driver 物件全域變數
-driver = None
 # --- 設定區結束 ---
 
 
@@ -201,7 +199,7 @@ while True:
         print(f"已於 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} 完成每小時簽到")
         
         # 如果現在是 12 點，額外執行每日簽到
-        if datetime.now().hour == 12:
+        if datetime.now().hour == 0:
             time.sleep(random.uniform(3, 7))
             daily_checkin(driver)
             
