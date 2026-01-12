@@ -6,7 +6,7 @@
   (剛開始及下載過程記得把預設瀏覽器勾選按掉，預設是打勾)
 
 <h2>2.接著將整個zip下載下來(若之後運行test.py有問題請自行安裝firefox driver)
-<h6>(link:https://github.com/mozilla/geckodriver/releases)
+<h6>(firefox driver link:https://github.com/mozilla/geckodriver/releases)
 (windows選擇win64版)
   
 ![8f5da834-a03b-4be1-8bb2-a6db504c62f4](https://github.com/user-attachments/assets/cde9a18d-c6af-443f-86c9-41b896ec5e01)
