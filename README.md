@@ -2,7 +2,8 @@
 
 <h2>1.首先去安裝firefox瀏覽器(不用chrome因不能用新版本)
 
-<h6>(link:https://www.firefox.com/zh-TW)(下載過程記得把預設瀏覽器勾選按掉，預設是打勾)
+<h6>(link:https://www.firefox.com/zh-TW)
+  (下載過程記得把預設瀏覽器勾選按掉，預設是打勾)
 
 <h2>2.接著將整個zip下載下來(若之後運行test.py有問題請自行安裝firefox driver)
 <h6>(link:https://github.com/mozilla/geckodriver/releases)
