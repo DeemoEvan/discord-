@@ -14,5 +14,6 @@
 
 <h2>5.執行test.py即可
 <h6>有問題請跳回第二步驟，下載firefox driver)
+
 # 運行釋例(只要不出現報錯，穩定能跑出tqdm進度條即成功):
 <img width="1450" height="117" alt="image" src="https://github.com/user-attachments/assets/72e414f7-b8d4-4da3-8d5a-787aa7f24352" />
