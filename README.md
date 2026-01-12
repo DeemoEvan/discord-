@@ -5,6 +5,7 @@
 2.接著將整個zip下載下來(若之後運行test.py有問題請自行安裝driver)(link:https://github.com/mozilla/geckodriver/releases)
 (windows選擇win64版)
 ![8f5da834-a03b-4be1-8bb2-a6db504c62f4](https://github.com/user-attachments/assets/cde9a18d-c6af-443f-86c9-41b896ec5e01)
+<img width="1147" height="558" alt="image" src="https://github.com/user-attachments/assets/7a033893-10ad-43b8-9608-10138a864bcf" />
 
 3.接壓縮後有一個login.txt，將dc帳號打在第一行，密碼打在第二行
 
